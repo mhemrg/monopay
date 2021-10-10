@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpolypay_docs=self.webpackChunkpolypay_docs||[]).push([[163],{2804:function(a){a.exports=JSON.parse('{"/polypay.js/fa/blog/tags/polypay":{"allTagsPath":"/polypay.js/fa/blog/tags","slug":"/polypay.js/fa/blog/tags/polypay","name":"polypay","count":1,"permalink":"/polypay.js/fa/blog/tags/polypay"}}')}}]);
