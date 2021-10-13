@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpolypay_docs=self.webpackChunkpolypay_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"\u067e\u0633\u062a \u0647\u0627\u06cc \u0627\u062e\u06cc\u0631","items":[{"title":"Welcome","permalink":"/polypay.js/fa/blog/welcome"}]}')}}]);
