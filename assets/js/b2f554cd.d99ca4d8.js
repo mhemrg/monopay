@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonopay_docs=self.webpackChunkmonopay_docs||[]).push([[477],{10:function(o){o.exports={blogPosts:[]}}}]);
